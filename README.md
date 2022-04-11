@@ -1,8 +1,8 @@
-# TertiumGameDemo
- Early build from the game Tertium
+# RadarFitRoulette
+ Test for RadarFit
 
 
 ![GIF](Imagens/roulettewin.gif)
-![Img 1](SS1.img)
+![Img 1](Imagens/SS1.jpg)
 
 
