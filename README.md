@@ -2,7 +2,7 @@
  Early build from the game Tertium
 
 
-![GIF](img/roulettewin.gif)
+![GIF](Imagens/roulettewin.gif)
 ![Img 1](SS1.img)
 
 
